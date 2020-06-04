@@ -1,0 +1,10 @@
+C:\Users\daniel\Desktop\CodingCampus\Spezialisierung_C#\Übung_5\Supermarkt_Forms\Supermarkt_Forms\bin\Debug\Supermarkt_Forms.exe.config
+C:\Users\daniel\Desktop\CodingCampus\Spezialisierung_C#\Übung_5\Supermarkt_Forms\Supermarkt_Forms\bin\Debug\Supermarkt_Forms.exe
+C:\Users\daniel\Desktop\CodingCampus\Spezialisierung_C#\Übung_5\Supermarkt_Forms\Supermarkt_Forms\bin\Debug\Supermarkt_Forms.pdb
+C:\Users\daniel\Desktop\CodingCampus\Spezialisierung_C#\Übung_5\Supermarkt_Forms\Supermarkt_Forms\obj\Debug\Supermarkt_Forms.csprojAssemblyReference.cache
+C:\Users\daniel\Desktop\CodingCampus\Spezialisierung_C#\Übung_5\Supermarkt_Forms\Supermarkt_Forms\obj\Debug\Supermarkt_Forms.OrderFormular.resources
+C:\Users\daniel\Desktop\CodingCampus\Spezialisierung_C#\Übung_5\Supermarkt_Forms\Supermarkt_Forms\obj\Debug\Supermarkt_Forms.Properties.Resources.resources
+C:\Users\daniel\Desktop\CodingCampus\Spezialisierung_C#\Übung_5\Supermarkt_Forms\Supermarkt_Forms\obj\Debug\Supermarkt_Forms.csproj.GenerateResource.cache
+C:\Users\daniel\Desktop\CodingCampus\Spezialisierung_C#\Übung_5\Supermarkt_Forms\Supermarkt_Forms\obj\Debug\Supermarkt_Forms.csproj.CoreCompileInputs.cache
+C:\Users\daniel\Desktop\CodingCampus\Spezialisierung_C#\Übung_5\Supermarkt_Forms\Supermarkt_Forms\obj\Debug\Supermarkt_Forms.exe
+C:\Users\daniel\Desktop\CodingCampus\Spezialisierung_C#\Übung_5\Supermarkt_Forms\Supermarkt_Forms\obj\Debug\Supermarkt_Forms.pdb
